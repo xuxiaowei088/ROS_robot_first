@@ -1,0 +1,8 @@
+prefix=/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/devel_isolated/mapping
+
+Name: mapping
+Description: Description of mapping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

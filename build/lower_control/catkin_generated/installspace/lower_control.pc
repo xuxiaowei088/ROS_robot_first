@@ -1,0 +1,8 @@
+prefix=/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/install
+
+Name: lower_control
+Description: Description of lower_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

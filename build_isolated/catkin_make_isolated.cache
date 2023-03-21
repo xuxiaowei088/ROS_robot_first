@@ -1,0 +1,2 @@
+lower_control:mapping:navigation:obstacle_avoidance:vision:visualization
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/install_isolated

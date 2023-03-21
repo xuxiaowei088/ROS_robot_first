@@ -1,2 +1,2 @@
-
+lower_control:mapping:navigation:obstacle_avoidance:vision:visualization
 -DCATKIN_DEVEL_PREFIX=/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/devel -DCMAKE_INSTALL_PREFIX=/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/install -G Unix Makefiles

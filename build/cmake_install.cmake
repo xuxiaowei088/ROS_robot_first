@@ -131,6 +131,12 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/build/gtest/cmake_install.cmake")
+  include("/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/build/lower_control/cmake_install.cmake")
+  include("/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/build/obstacle_avoidance/cmake_install.cmake")
+  include("/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/build/mapping/cmake_install.cmake")
+  include("/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/build/vision/cmake_install.cmake")
+  include("/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/build/visualization/cmake_install.cmake")
+  include("/home/xuxiaowei/workspace_ros/ROS_study_workSpace/ROS_robot_first/build/navigation/cmake_install.cmake")
 
 endif()
 

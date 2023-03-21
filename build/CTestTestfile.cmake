@@ -5,3 +5,9 @@
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
+subdirs("lower_control")
+subdirs("obstacle_avoidance")
+subdirs("mapping")
+subdirs("vision")
+subdirs("visualization")
+subdirs("navigation")
